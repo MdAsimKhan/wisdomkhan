@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2016/02/19/10/00/laptop-1209008_960_720.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Developing my skills in the field of AR,VR,MR and sometimes Web Dev.
+- 🔭 I’m currently working on Developing my skills in the field of AR, VR, MR and sometimes Web Dev.
 
 - 🌱 I’m currently learning AR, VR, MR and Django and React 
 
@@ -46,7 +46,7 @@
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
